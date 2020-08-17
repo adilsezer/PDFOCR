@@ -1,5 +1,5 @@
 # PDFOCR
-An OCR project to read all PDF files in a folder with Tesseract library and write text into a txt file
+An OCR project to read all PDF files in a folder with Tesseract library and write OCR text into a txt file
 
 ## Requirements
 * Pillow 7.2.0
