@@ -17,7 +17,7 @@ Tesseract-OCR: https://github.com/tesseract-ocr/tesseract/wiki
     $ python PDFOCR.py
 
 ## Screenshots
-### Main Application
+### Example PDF Document
 ![Alt text](https://github.com/sezerad/PDFOCR/blob/master/screenshots/ExamplePDF.png?raw=true "PDF OCR")
-### Modifying an application timing
+### Extracted Text
 ![Alt text](https://github.com/sezerad/PDFOCR/blob/master/screenshots/ExampleResult.png?raw=true "PDF OCR")
