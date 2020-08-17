@@ -1,38 +1,19 @@
-—
-amazon
-Amazon Web Services Invoice
-“5 webservices” Email or tac tous about your AWS account rb vk as amazon comfeontacts
-Account number: Invoice Summary
-296664039561 Invoice Number: 42183017
-Invoice Date: August 3 , 2014
-Bill to Address:
-ATTN: iViveLabs Limited TOTAL AMOUNT DUE ON August 3 , 2014 $4.11
-93B Sai Yu Chung
-Yuen Long, N.T., 0000, HK
-This invoice is for the billing period July 1 - July 31 , 2014
-Greetings from Amazon Web Services, we're writing to provide you with an electronic invoice for your use of AWS services. Additional information
-regarding your bill, individual service charge details, and your account history are available on the Account Activity Page.
-Summary
-AWS Service Charges $4.11
-Charges $4.11
-Credits $0.00
-Tax* $0.00
-“Total for this invoice 88
-Detail
-AWS Data Transfer $0.01
-Charges $0.01
-VAT ** $0.00
-Amazon Elastic Compute Cloud $1.87
-Charges $1.87
-VAT * $0.00
-Amazon Glacier $2.22
-Charges $2.22
-VAT ** $0.00
-Amazon Simple Storage Service $0.01
-Charges $0.01
-VAT ** $0.00
-* May include estimated US sales tax, VAT, GST and CT Service Provider:
-“This is not a VAT invoice (Not to be used for payment remittance)
-“* Check the GST statement attached at the end of this Invoice Amazon Web Services, Inc.
-for details 410 Terry Ave North
-Seattle, WA 98109-5210, US
+@ tesseract-ocr / tesseract
+Home
+Jump to bottom
+Stefan Weil edited this page on Jan 30 - 123 revisions
+These wiki pages are no longer maintained. All pages were moved to tesseract-ocr/tessdoc.
+The latest documentation is available at https://tesseract-ocr.github.io/.
+Introduction
+Tesseract is an open source text recognition (OCR) Engine, available under the Apache 2.0 license. It
+can be used directly, or (for programmers) using an API to extract printed text from images. It
+supports a wide variety of languages.
+Tesseract doesn't have a built-in GUI, but there are several available from the 3rdParty page.
+Installation
+There are two parts to install, the engine itself, and the training data for a language.
+Linux
+Tesseract is available directly from many Linux distributions. The package is generally called
+‘tesseract’ or 'tesseract-ocr' - search your distribution's repositories to find it. Thus you can install
+Tesseract 4.x and its developer tools on Ubuntu 18.x bionic by simply running:
+sudo apt install tesseract-ocr
+sudo apt install libtesseract-dev
